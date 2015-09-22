@@ -1,0 +1,54 @@
+header{
+  background-color: gray;
+}
+nav {
+  background-color: gray;
+}
+nav a{
+  text-decoration: none;
+}
+nav a:hover{
+  color: red;
+}
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline;
+  text-align: center;
+  padding: 10px;
+}
+.spot1 {
+  float: left;
+  max-width: 30%;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+.spot2 {
+  float: left;
+  max-width: 30%;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+.spot3 {
+  float: left;
+  max-width: 30%;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+.spot4 {
+  float: left;
+  max-width: 30%;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+.gal img:hover{
+  border: 1px solid red;
+}
+.gal img:active {
+  display: none;
+}
