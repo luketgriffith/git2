@@ -1,9 +1,11 @@
+/****************header******************/
 header{
   background-color: gray;
 }
 h1{
   padding: 5px;
 }
+/***************nav******************/
 nav {
   background-color: gray;
 }
@@ -21,6 +23,7 @@ nav ul li {
   text-align: center;
   padding: 10px;
 }
+/*****************Gallery**************/
 .spot1 {
   float: left;
   max-width: 30%;
@@ -48,10 +51,4 @@ nav ul li {
   margin: 2.5%;
   padding: 2px;
   text-align: center;
-}
-.gal img:hover{
-  border: 1px solid red;
-}
-.gal img:active {
-  display: none;
 }
